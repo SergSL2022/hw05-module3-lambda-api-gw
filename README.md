@@ -38,6 +38,21 @@
 
 ### 2. Create Lambda function using python and boto3
 #### 2.1. The function should get list of EC2 instances
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-07-51.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-09-07.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-09-18.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-09-43.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-16-15.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-16-20.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-17-37.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-19-13.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-19-19.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-19-28.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-20-17.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-21-52.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-24-47.png>)
+![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-25-24.png>)
+
 #### 2.2. Check if it is stopped and has the "Owner=Your Name" tag
 #### 2.3. Then start it or skip otherwise
 #### 2.4. Return the list of started instance IDs
