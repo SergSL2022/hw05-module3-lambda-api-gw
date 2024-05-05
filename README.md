@@ -1,6 +1,6 @@
 # hw05-module3-lambda-api-gw
 
-## Lambda
+# Lambda
 
 ### 1. Create Lambda function using python and boto3
 #### 1.1. The function should get list of EC2 instances
@@ -73,11 +73,19 @@
 
 
 ### 3. Run both lambda functions and confirm that they work
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-32-20.png>)
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-32-39.png>)
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-32-54.png>)
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-33-14.png>)
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-33-28.png>)
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-34-19.png>)
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-34-38.png>)
+![alt text](<screenshots/both/Знімок екрана з 2024-05-06 02-34-51.png>)
 
 
 
 
-## API Gateway
+# API Gateway
 
 ### 1. Create API gateway with the following endpoints:
 #### /instances/stop - triggers the 1st lambda
@@ -87,7 +95,7 @@
 ### 2. Confirm that it works as expected
 
 
-## Advanced
+# Advanced
 ### 1. Create lambda function which gets ID of instance and needed operation (stop/start)
 
 ### 2. Get list of instances and finds that record if exists
