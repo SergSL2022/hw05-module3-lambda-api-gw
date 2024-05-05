@@ -59,6 +59,12 @@
 ![alt text](<screenshots/start2/Знімок екрана з 2024-05-06 01-50-02.png>)
 
 #### 2.3. Then start it or skip otherwise
+![alt text](<screenshots/start3/Знімок екрана з 2024-05-06 02-06-10.png>)
+![alt text](<screenshots/start3/Знімок екрана з 2024-05-06 02-12-46.png>)
+![alt text](<screenshots/start3/Знімок екрана з 2024-05-06 02-13-07.png>)
+![alt text](<screenshots/start3/Знімок екрана з 2024-05-06 02-13-19.png>)
+![alt text](<screenshots/start3/Знімок екрана з 2024-05-06 02-13-31.png>)
+
 #### 2.4. Return the list of started instance IDs
 
 ### 3. Run both lambda functions and confirm that they work
