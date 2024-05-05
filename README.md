@@ -4,6 +4,14 @@
 
 ### 1. Create Lambda function using python and boto3
 #### 1.1. The function should get list of EC2 instances
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 21-32-44.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 21-34-07.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 21-38-23.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-39-17.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-01.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-09.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-29.png>)
+![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-54.png>)
 #### 1.2. Check if it is running and has the "Owner=Your Name" tag
 #### 1.3. Then stop it or skip otherwise
 #### 1.4. Return the list of stopped instance IDs
@@ -31,15 +39,6 @@
 
 ## Advanced
 ### 1. Create lambda function which gets ID of instance and needed operation (stop/start)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 21-32-44.png>)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 21-34-07.png>)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 21-38-23.png>)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-39-17.png>)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-01.png>)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-09.png>)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-29.png>)
-![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-54.png>)
-
 
 ### 2. Get list of instances and finds that record if exists
 
