@@ -54,6 +54,10 @@
 ![alt text](<screenshots/start1/Знімок екрана з 2024-05-06 01-25-24.png>)
 
 #### 2.2. Check if it is stopped and has the "Owner=Your Name" tag
+![alt text](<screenshots/start2/Знімок екрана з 2024-05-06 01-49-19.png>)
+![alt text](<screenshots/start2/Знімок екрана з 2024-05-06 01-49-40.png>)
+![alt text](<screenshots/start2/Знімок екрана з 2024-05-06 01-50-02.png>)
+
 #### 2.3. Then start it or skip otherwise
 #### 2.4. Return the list of started instance IDs
 
