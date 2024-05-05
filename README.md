@@ -23,6 +23,11 @@
 ![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-13-49.png>)
 
 #### 1.3. Then stop it or skip otherwise
+![alt text](<screenshots/3/Знімок екрана з 2024-05-06 00-32-48.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-06 00-33-18.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-06 00-33-31.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-06 00-33-54.png>)
+
 #### 1.4. Return the list of stopped instance IDs
 
 ### 2. Create Lambda function using python and boto3
