@@ -13,6 +13,15 @@
 ![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-29.png>)
 ![alt text](<screenshots/1/Знімок екрана з 2024-05-05 23-40-54.png>)
 #### 1.2. Check if it is running and has the "Owner=Your Name" tag
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-00-00.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-00-17.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-00-41.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-01-26.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-04-07.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-13-03.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-13-23.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-06 00-13-49.png>)
+
 #### 1.3. Then stop it or skip otherwise
 #### 1.4. Return the list of stopped instance IDs
 
