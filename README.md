@@ -29,6 +29,12 @@
 ![alt text](<screenshots/3/Знімок екрана з 2024-05-06 00-33-54.png>)
 
 #### 1.4. Return the list of stopped instance IDs
+![alt text](<screenshots/4/Знімок екрана з 2024-05-06 00-44-18.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-05-06 00-45-22.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-05-06 00-45-47.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-05-06 00-45-56.png>)
+
+
 
 ### 2. Create Lambda function using python and boto3
 #### 2.1. The function should get list of EC2 instances
