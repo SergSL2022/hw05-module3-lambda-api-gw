@@ -150,8 +150,12 @@
 ![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 22-30-57.png>)
 
 ### 5. Find ID of any existing EC2 instance and use it you your requests to stop/start the VM via API GW
-
-
+![alt text](<screenshots/advanced5/Знімок екрана з 2024-05-06 22-46-29.png>)
+![alt text](<screenshots/advanced5/Знімок екрана з 2024-05-06 22-46-40.png>)
+![alt text](<screenshots/advanced5/Знімок екрана з 2024-05-06 22-54-57.png>)
+![alt text](<screenshots/advanced5/Знімок екрана з 2024-05-06 22-55-15.png>)
+![alt text](<screenshots/advanced5/Знімок екрана з 2024-05-06 22-55-46.png>)
+![alt text](<screenshots/advanced5/Знімок екрана з 2024-05-06 22-55-59.png>)
 
 ## Cleanup
 ### 1. Add code of lambda function to your project
