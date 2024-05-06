@@ -124,6 +124,11 @@
 
 # Advanced
 ### 1. Create lambda function which gets ID of instance and needed operation (stop/start)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-06 17-48-10.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-06 17-48-36.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-06 17-48-46.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-06 20-27-51.png>)
+![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-06 20-29-01.png>)
 
 ### 2. Get list of instances and finds that record if exists
 
