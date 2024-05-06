@@ -159,4 +159,10 @@
 
 ## Cleanup
 ### 1. Add code of lambda function to your project
+start_slipchuk_ec2.py
+[Start EC2 Lambda function](start_slipchuk_ec2.py)
+[Stop EC2 Lambda function](stop_slipchuk_ec2.py)
+[Start/stop EC2 by ID Lambda function](slipchuk-start_stop-by-id.py)
+
+
 ### 2. Remove all lambdas and API GW from AWS
