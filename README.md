@@ -89,11 +89,38 @@
 
 ### 1. Create API gateway with the following endpoints:
 #### /instances/stop - triggers the 1st lambda
-#### /instances/start - triggers the 2nd lambda
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-40-17.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-40-57.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-41-01.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-41-32.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-41-41.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-41-51.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-41-57.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-42-08.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-42-27.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-43-00.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-43-27.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-44-37.png>)
+![alt text](<screenshots/api-stop/Знімок екрана з 2024-05-06 13-45-05.png>)
 
+#### /instances/start - triggers the 2nd lambda
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-28-49.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-29-31.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-30-35.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-30-46.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-31-03.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-31-09.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-31-27.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-31-39.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-32-53.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-33-36.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-37-21.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-37-49.png>)
+![alt text](<screenshots/api-start/Знімок екрана з 2024-05-06 13-38-09.png>)
 
 ### 2. Confirm that it works as expected
-
+![alt text](<screenshots/api-total/Знімок екрана з 2024-05-06 14-34-56.png>)
+![alt text](<screenshots/api-total/Знімок екрана з 2024-05-06 14-36-35.png>)
 
 # Advanced
 ### 1. Create lambda function which gets ID of instance and needed operation (stop/start)
