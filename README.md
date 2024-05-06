@@ -131,8 +131,10 @@
 ![alt text](<screenshots/advanced1/Знімок екрана з 2024-05-06 20-29-01.png>)
 
 ### 2. Get list of instances and finds that record if exists
+![alt text](<screenshots/advanced2/Знімок екрана з 2024-05-06 20-43-28.png>)
 
 ### 3. If record is found then perform the operation
+![alt text](<screenshots/advanced3/Знімок екрана з 2024-05-06 20-46-11.png>)
 
 ### 4. Create endpoint in API GW /instance/{ID}/{operation} and point it to the new lambda
 
