@@ -167,3 +167,26 @@
 
 
 ### 2. Remove all lambdas and API GW from AWS
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-13-15.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-13-33.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-13-46.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-14-09.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-14-22.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-14-42.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-15-00.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-16-07.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-16-18.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-16-37.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-17-16.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-17-30.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-18-46.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-19-00.png>)
+![alt text](<screenshots/cleanup/Знімок екрана з 2024-05-06 23-19-12.png>)
+
+
+
+
+
+
+
+
