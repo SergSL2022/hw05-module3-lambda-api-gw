@@ -137,6 +137,17 @@
 ![alt text](<screenshots/advanced3/Знімок екрана з 2024-05-06 20-46-11.png>)
 
 ### 4. Create endpoint in API GW /instance/{ID}/{operation} and point it to the new lambda
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-49-13.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-49-56.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-50-26.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-52-41.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-52-48.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-53-01.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-53-06.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-53-49.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 20-55-04.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 22-30-03.png>)
+![alt text](<screenshots/advanced4/Знімок екрана з 2024-05-06 22-30-57.png>)
 
 ### 5. Find ID of any existing EC2 instance and use it you your requests to stop/start the VM via API GW
 
